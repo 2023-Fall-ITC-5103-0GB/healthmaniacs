@@ -1,29 +1,6 @@
 ## AHMED MIR MOHIUDDIN
 ## N01617959
 
-PHYSICAL HEALTH
-1.	PAGE INFO
-## Tasks
-- [x] Create one Web page
-- [x] Add Some styles and add accessibility tags
-- [x] add JS to the page
-
- 
-## Leaning curve and challenges
-- using the flex properties
-- adjusting items in the web page
-- keyframes 
-- hamburger menu
-
-## Resources
-- w3schools
-- Took reference from the sample.
--content was taken from
----yoga - https://www.nccih.nih.gov/health/yoga-what-you-need-to-know
----gym - https://www.womenshealthmag.com/fitness/a30522035/what-is-strength-    training
----gymnastics- https://en.wikipedia.org/wiki/Gymnastics
----help with flex box model- https://www.youtube.com/watch?v=oJXmXzfjrBY
----keyframes reference :https://www.youtube.com/watch?v=jiK6Mf-ILSg
 
 PHYSICAL HEALTH
 1.	PAGE INFO
